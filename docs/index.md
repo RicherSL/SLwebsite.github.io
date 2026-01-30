@@ -18,7 +18,7 @@ Ministry of Education,
 China
 
 # Education
-## Master Education
+## Doctor Education
 * Degree: Master of Engineering, Computer Science and Technology
 * Time: September 2023 to present
 * University: Beijing Institute of Technology

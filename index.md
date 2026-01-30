@@ -1,8 +1,8 @@
 # Home
 
-I am currently working towards the M.S. degree with the School of Medical Technology, Beijing Institute of Technology. 
+I am currently working towards the PhD degree with the School of Medical Technology, Beijing Institute of Technology. 
 My Supervisor is [Prof. Dr.-Ing. Kun Qian](https://eecsqian.com) (Senior Member, IEEE). 
-Before this, I received the B.S. degree from School of Computer Science and Technology, Beijing Institute of Technology, China, in 2023.
+Before this, I received the B.S. and M.S. degrees from School of Cyber Science and Engineering, Zhengzhou University, Zhengzhou, China, in 2020 and 2023.
 
 # Affiliations
 [School of Medical Technology](https://smt.bit.edu.cn),  
@@ -33,4 +33,5 @@ zhj@bit.edu.cn
 School of Medical Technology,  
 Beijing Institute of Technology,  
 Beijing 100081,  
+
 China

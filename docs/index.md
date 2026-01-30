@@ -19,7 +19,7 @@ China
 
 # Education
 ## Doctor Education
-* Degree: Master of Engineering, Computer Science and Technology
+* Degree: Doctor of Philosophy, Computer Science and Technology
 * Time: September 2023 to present
 * University: Beijing Institute of Technology
 * Place: Beijing, China

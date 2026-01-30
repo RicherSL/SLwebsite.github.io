@@ -19,6 +19,13 @@ China
 
 # Education
 ## Master Education
+* Degree: Master of Engineering, Computer Science and Technology
+* Time: September 2023 to present
+* University: Beijing Institute of Technology
+* Place: Beijing, China
+
+
+## Master Education
 * Degree: Master of Engineering, Computer Technology
 * Time: September 2020 to June 2023
 * University: Zhengzhou University
@@ -38,5 +45,6 @@ Beijing Institute of Technology,
 Beijing 100081,  
 
 China
+
 
 
